@@ -38,5 +38,4 @@ _build_dir
 drogon.log
 log_build.log
 rng-container
-rng
 config.json.1
