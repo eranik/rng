@@ -10,6 +10,6 @@ cp ../config.json .
 cd ..
 tar -czvf ./rng-container.tar.gz ./rng-container -C rng-container
 
-# docker import ./ping-container.tar.gz ping-container
+# docker import ./rng-container.tar.gz rng-container
 
 
